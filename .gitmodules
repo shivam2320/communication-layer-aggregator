@@ -10,3 +10,6 @@
 	path = lib/axelar-cgp-solidity
 	url = https://github.com/axelarnetwork/axelar-cgp-solidity
 	branch = v4.5.0
+[submodule "lib/solmate"]
+	path = lib/solmate
+	url = https://github.com/transmissions11/solmate
